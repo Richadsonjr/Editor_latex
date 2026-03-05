@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX WYSIWYG Editor",
+  "description": "A high-performance WYSIWYG editor that converts rich text to LaTeX in real-time.",
+  "requestFramePermissions": []
+}
